@@ -6,9 +6,11 @@ export function setCharTimeline(
   camera: THREE.PerspectiveCamera
 ) {
   let intensity: number = 0;
-  setInterval(() => {
-    intensity = Math.random();
-  }, 200);
+  gsap.to({}, {
+    duration: 0.2,
+    repeat: -1,
+    onRepeat: () => { intensity = Math.random(); },
+  });
   const tl1 = gsap.timeline({
     scrollTrigger: {
       trigger: ".landing-section",
