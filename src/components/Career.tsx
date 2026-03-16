@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Technical Operator</h4>
+                <h5>Andrew Amphenol Antenna India</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              February 2025 – April 2025. Handled technical operations and
+              production processes related to fiber antenna components. Focused on
+              equipment operation, monitoring, and quality control.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Implementation Engineer</h4>
+                <h5>Goa Electronics Limited</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              April 2025 – July 2025. Worked on system implementation and
+              technical support tasks related to electronics and operational
+              systems. Provided technical troubleshooting and engineering support.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Business Coach</h4>
+                <h5>Forever Living Products</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Mentoring individuals in entrepreneurial mindset and digital
+              marketing strategies. Coaching in business development and training
+              in digital tools and productivity methods.
             </p>
           </div>
         </div>
